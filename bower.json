@@ -1,0 +1,17 @@
+{
+  "name": "node_playground",
+  "version": "0.0.0",
+  "homepage": "https://github.com/maoswald/node_playground",
+  "authors": [
+    "Manuel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ]
+}
